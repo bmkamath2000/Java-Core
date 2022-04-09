@@ -1,4 +1,4 @@
-package somepack;
+package exceptions;
 public class ArithmeticEx {
 
 	public static void main(String[] args) {

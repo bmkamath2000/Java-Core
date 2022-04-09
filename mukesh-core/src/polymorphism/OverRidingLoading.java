@@ -1,4 +1,4 @@
-package somepack;
+package polymorphism;
 class BaseClass
 {
 	void inBase()

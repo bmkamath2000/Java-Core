@@ -1,4 +1,4 @@
-package somepack;
+package polymorphism;
 import java.util.Scanner;
 final class LeafNode
 {

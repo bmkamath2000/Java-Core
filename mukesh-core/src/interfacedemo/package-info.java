@@ -1,1 +1,1 @@
-package somepack;
+package interfacedemo;

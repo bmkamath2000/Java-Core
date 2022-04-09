@@ -1,4 +1,4 @@
-package somepack;
+package inheritance;
 class BaseH
 {
 	void show()

@@ -1,4 +1,4 @@
-package somepack;
+package polymorphism;
 abstract class AreaCalc
 {
 	abstract float area();

@@ -1,4 +1,4 @@
-package somepack;
+package interfacedemo;
 import java.io.*;
 interface MouseInterface
 {
