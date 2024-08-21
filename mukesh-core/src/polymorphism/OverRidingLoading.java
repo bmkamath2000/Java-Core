@@ -30,5 +30,4 @@ public class OverRidingLoading {
 		d.inDerived();
 		d.inDerived(10);
 	}
-
 }
