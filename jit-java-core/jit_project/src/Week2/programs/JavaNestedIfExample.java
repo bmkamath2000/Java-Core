@@ -3,7 +3,7 @@ package Week2.programs;
 public class JavaNestedIfExample {    
 public static void main(String[] args) {    
     //Creating two variables for age and weight  
-    int age=20;  
+    int age=15;  
     int weight=80;    
     //applying condition on age and weight  
     if(age>=18){    
