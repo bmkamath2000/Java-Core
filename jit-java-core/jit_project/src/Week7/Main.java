@@ -1,7 +1,7 @@
 package Week7;
-import cc.*;
-import dc.*;
-import tc.*;
+import Week7.cc.*;
+import Week7.dc.*;
+import Week7.tc.*;
 
 public class Main {
     public static void main(String args[]) {

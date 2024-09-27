@@ -1,7 +1,11 @@
+package Week8;
 import java.util.*;
 
 public class ArrayL {
-    ArrayList<String> list = new ArrayList<String>(); // Creating arraylist 
+    ArrayList<String> list; // Creating arraylist 
+    ArrayL(){
+    	list = new ArrayList<String>();
+    }
     public void arraydisplay()
     {
         list.add("CSE");// Adding object in arraylist

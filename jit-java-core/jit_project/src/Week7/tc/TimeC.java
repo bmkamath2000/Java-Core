@@ -1,4 +1,4 @@
-package tc;
+package Week7.tc;
 
 import java.util.*;
 

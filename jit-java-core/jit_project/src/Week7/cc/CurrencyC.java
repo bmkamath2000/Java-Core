@@ -6,7 +6,7 @@
  * Aim: Introduce the concept of Abstraction, packages. 
  *
  */
-package cc;
+package Week7.cc;
 
 import java.util.*;
 
