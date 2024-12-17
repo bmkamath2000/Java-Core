@@ -8,5 +8,6 @@
 		</attributes>
 	</classpathentry>
 	<classpathentry kind="lib" path="jit-java-core/Week2/programs/Example.java"/>
+	<classpathentry kind="lib" path="jit-java-core/jit_project/src/Week7/Depreciation.java"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>

@@ -4,5 +4,5 @@
 /**
  * 
  */
-module jit_project {
+module jit_project.src{
 }
